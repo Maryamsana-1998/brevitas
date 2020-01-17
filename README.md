@@ -6,6 +6,8 @@ Brevitas is a Pytorch library for training-aware quantization.
 
 *Brevitas is currently under active development and to be considered in alpha stage. APIs might and probably will change. Documentation, examples, and pretrained models will be progressively released.*
 
+A training script for the QuantLenet network has been introduced, named as quant_train and soon generic training scripts will be introduced too.
+
 ## Requirements
 * [Pytorch](https://pytorch.org) >= 1.1.0
 
